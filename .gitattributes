@@ -1,0 +1,9 @@
+src/** linguist-detectable   
+
+docs/**/*.html linguist-vendored
+*.tsx linguist-detectable
+
+*.md linguist-documentation
+*.jpeg binary
+*.woff binary
+*.min.js linguist-generated
